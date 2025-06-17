@@ -1,4 +1,4 @@
-# 💫 Hi 👋, SOURAV HATI
+#  Hi 👋, SOURAV HATI
 **C++ | MERN Stack Dev | DSA Enthusiast | AI & Hackathon Projects | MVP Builder**
 
 Email Me 👉 ✉️ **sourav6102003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
