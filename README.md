@@ -1,20 +1,20 @@
 # 💫 Hi 👋, SOURAV HATI
-**A passionate Cloud Engineer || DevOps  India**
+**C++ | MERN Stack Dev | DSA Enthusiast | AI & Hackathon Projects | MVP Builder**
 
-Email Me 👉 ✉️ **com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sourav6102003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on:** AI & ML  project
+- 🌱 **I’m currently learning:** DSA in C++
+- 👯 **I’m looking to collaborate on:** .............
+- 🤔 **I’m looking for help with:** ..............
+- 💬 **Ask me about:** ..........
+- 📫 **How to reach me:** sourav6102003@gmail.com
 - 😄 **Pronouns:** 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** First Love 💻
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sourav.hati.32438) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-hati-8a556129a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sourav6102003@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sourav.hati.32438) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-hati-6102003s/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sourav6102003@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
